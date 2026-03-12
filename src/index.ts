@@ -2,7 +2,9 @@ import express, { Request, Response } from 'express'
 import cors from 'cors'
 
 const app = express()
-app.use(cors())
+app.use(cors({
+     origin: "https://potential-space-zebra-7r45xg5vj95cgw4-5173.app.github.dev"
+}))
 
 enum States {
     MG = "Minas Gerais",
