@@ -1,9 +1,45 @@
-import express from 'express'
+import express, { Request, Response } from 'express'
 
 const app = express()
 
-app.get('/produtos', (req, res) =>{
-    return res.send('Meus Produtos')
+enum States {
+    MG = "Minas Gerais",
+    SP = "São Paulo"
+}
+
+interface IAddress{
+    street: string;
+    number: number;
+    state: States
+}
+
+interface IProdutos {
+    id: number;
+    name: string;
+    price: number;
+    description?: string;
+    address: IAddress;
+}
+
+let produtos: IProdutos[] = []
+
+app.get('/produtos', (req: Request, res: Response) => {
+
+    const newProduto: IProdutos = {
+        id: Math.random(),
+        name: "Batedeira",
+        price: 300,
+        description: "Batedeira muito boa!",
+        address: {
+            street: "Rua dos Bobos",
+            number: 20,
+            state: States.MG
+        }
+
+    }
+    produtos.push(newProduto)
+
+    return res.json(produtos)
 })
 
 app.listen(3000, () => {
