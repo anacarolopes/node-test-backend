@@ -40,5 +40,9 @@
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
+
+     // Dependency Injection
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   }
 }

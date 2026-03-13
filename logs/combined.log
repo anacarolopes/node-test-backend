@@ -1,0 +1,109 @@
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T16:51:06.567Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T16:51:06.573Z"}
+{"level":"info","message":{"method":"GET","url":"/"},"timestamp":"2026-03-13T16:52:47.921Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T16:52:58.658Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:13:23.134Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:13:23.139Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:13:32.732Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:23:20.839Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:23:20.845Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:23:48.022Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:23:48.027Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:23:56.076Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:24:09.737Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:24:09.742Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:24:27.341Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:25:06.091Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:25:06.102Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:25:10.147Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:25:10.159Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:25:15.400Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:30:45.988Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:30:45.997Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:30:52.307Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:30:52.312Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:31:27.852Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:31:46.782Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:35:21.563Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:39:34.781Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:39:34.785Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:39:43.493Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:39:43.498Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:42:28.336Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:42:28.341Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:43:07.970Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:43:07.984Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:43:32.915Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:44:10.330Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:44:10.337Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:44:12.841Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:44:12.847Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:44:18.751Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:44:18.757Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:44:21.958Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:44:21.963Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:44:44.864Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:44:44.871Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:44:52.194Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:44:52.199Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:47:11.770Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:48:53.727Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:51:17.128Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:51:17.137Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:51:57.744Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:51:57.750Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:52:08.159Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:52:08.175Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:52:25.320Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:52:25.325Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:52:42.159Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:52:42.163Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:52:50.206Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:52:50.211Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:52:56.772Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:53:46.375Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:53:46.382Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:53:58.035Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:54:48.948Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:54:48.958Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:55:22.588Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:55:22.592Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:55:28.687Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:56:02.949Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:56:02.957Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:56:05.340Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:56:05.346Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:56:09.296Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:56:42.844Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:56:42.862Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:56:44.847Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:59:15.540Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:59:15.546Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:59:23.077Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:59:35.333Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:59:35.338Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:59:39.880Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T17:59:43.192Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T17:59:52.571Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T17:59:52.576Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:01:23.576Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:01:23.580Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:02:36.477Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:02:36.480Z"}
+{"level":"info","message":{"method":"GET","url":"/ping"},"timestamp":"2026-03-13T18:02:51.736Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:03:27.912Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:03:27.934Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:03:30.548Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:03:30.556Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:04:31.007Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:04:31.012Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:05:11.214Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:05:11.229Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:05:33.877Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:05:33.902Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:07:45.155Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:07:45.161Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-13T18:10:23.203Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:10:23.208Z"}
+{"level":"info","message":{"method":"GET","url":"/ping"},"timestamp":"2026-03-13T18:11:14.531Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T18:11:20.079Z"}
