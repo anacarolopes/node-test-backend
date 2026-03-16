@@ -11,6 +11,6 @@ export interface Produto {
     id: ObjectId
     name: string
     price: number
-    description?: string
+    description: string
     address: Address
 }

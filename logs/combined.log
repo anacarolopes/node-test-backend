@@ -107,3 +107,26 @@
 {"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-13T18:10:23.208Z"}
 {"level":"info","message":{"method":"GET","url":"/ping"},"timestamp":"2026-03-13T18:11:14.531Z"}
 {"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-13T18:11:20.079Z"}
+{"level":"info","message":"MongoDB conectado com sucesso","timestamp":"2026-03-16T11:01:53.400Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2026-03-16T11:01:53.404Z"}
+{"level":"info","message":{"method":"GET","url":"/favicon.ico"},"timestamp":"2026-03-16T11:02:13.712Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:02:15.313Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:04:20.869Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:04:22.120Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:04:43.636Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:04:44.245Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:23:04.190Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:23:17.041Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:23:18.393Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:25:56.452Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:25:58.012Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:26:43.326Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:26:43.924Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:27:01.202Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:27:02.832Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:28:27.950Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:28:29.704Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:28:46.712Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:28:48.238Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:29:50.214Z"}
+{"level":"info","message":{"method":"GET","url":"/produtos"},"timestamp":"2026-03-16T11:29:51.636Z"}
